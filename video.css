@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(pic1.jpg);
+    background-size: cover;
+}
+
+
+/* Editing the h1 tag*/
+h1{
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: darkblue;
+}
+
+
+/* Editing the link*/
+a{
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 15px;
+    color: #ffc107;
+}
+
+/* Editing the hovering over the link*/
+a:hover{
+    color: #fb2525;
+}
+
+/* Editing the video*/
+video{
+    margin-top: 30px;
+    margin-left: 20%;
+    padding: 0;
+}
