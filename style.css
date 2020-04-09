@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(pic1.jpg);
+    background-size: cover;
+}
+
+/* Editing the h1 tag*/
+h1{
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: darkorange;
+}
+
+/* Editing the link*/
+a{
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 15px;
+    color: #fb2525;
+}
+
+/* Editing the hovering over the link*/
+a:hover{
+    color: #ffc107;
+}
+
+/* Editing the paragraph*/
+p{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: blue;
+}
